@@ -18,7 +18,7 @@ images.map((el, index) => {
   `;
 });
 
-// 2-й шаг (добавление модального окна)
+// 2-й шаг (Включение модального окна)
 const divLightbox = document.querySelector("div.js-lightbox");
 const imgModal = document.querySelector("img.lightbox__image");
 
